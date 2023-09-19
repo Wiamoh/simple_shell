@@ -1,4 +1,4 @@
-# 0x16. C - Simple Shell
+ - Simple Shell
 
 Authors: wiam & salwa
 
@@ -52,3 +52,4 @@ To get the "0x16. C - Simple Shell" project on your local machine, follow these 
 
    `shell
    git clone https://github.com/wiamoh/simple_shell.g
+
